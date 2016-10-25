@@ -1,0 +1,3 @@
+This is a text file that I will be using for my Meet Magento Romania git talk!
+
+It will show people how I use git and why I love it. I do love it it is just misunderstood sometimes.
