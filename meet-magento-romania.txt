@@ -1,5 +1,28 @@
 !!!Meet Magento Romania!!!
 
+Meet Magento provides as one of the leading eCommerce events the access to the whole eCommerce community.
+It is the place where you can meet merchants, decision-makers and opinion leaders of the eCommerce as well as Magento developers and online agencies.
+The conference already takes place in more than 20 countries.
+
+Sponsors:
+
+* Evozon,
+* Microsoft,
+* Optaros,
+* blugento,
+* MindMagnet,
+* MediaNoua,
+* TargetWeb,
+* Welt Pixel,
+* VE,
+* PhpStorm,
+* WMB,
+* eJobs,
+* getpony,
+* Nordic Web Team,
+* EuroWeb,
+* UBB-Executive Education,
+
 This is a text file that I will be using for my Meet Magento Romania git talk!
 
 Meet Magento Romania will be on the 28th and 29th of October 2016.
