@@ -94,4 +94,9 @@ There is a party and it will be great!
 It is sponsored by Evoson so go say thank you.
 I have no idea where it is or when it starts so my plan is just to follow someone who looks like they know what they are doing.
 
+I am really looking forward to listening to Vinai talk about testing.
+His talk title is "Writing testable code for Magento 1 & 2".
+The talk will be held at 15:30.
+What this man does for testing in our community cannot be understated.
+
 This text file is only really for a joke.....
