@@ -52,7 +52,7 @@ There are other speakers at this conference:
 * Ben Marks,
 * Sergey Lysak,
 * Liviu Taloi,
-* Marius Strajeru,
+* Marius Străjeru,
 * Iulian Padurariu,
 * Anna Völkl,
 * Sonja Riesterer,
