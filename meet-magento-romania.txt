@@ -1,3 +1,56 @@
 This is a text file that I will be using for my Meet Magento Romania git talk!
 
+Meet Magento Romania will be on the 28th and 29th of October 2016.
+It will be in the lovely city of Cluj-Napoca and the event will tell you all you need to know about Magento.
+There will be something for merchants, developers and agencies and the like at the conference.
+Rumour has it that there will also be a killer party.
+
+During the conference I will be giving people an insight into the world of git.
 It will show people how I use git and why I love it. I do love it it is just misunderstood sometimes.
+In this talk I will show you some basics and some not so basics around the world of git and source control.
+With the aim of this talk to not ramble too much and inspire some people to look a bit more into this "new" git thing.
+
+There are other speakers at this conference:
+
+* Jason Woosley,
+* Volodymyr Kublytskyi,
+* Catalin Popa,
+* Vinai Kopp,
+* Vlad Stanescu,
+* Fabian Blechschmidt,
+* David Manners,
+* Thomas Goletz,
+* Deryck Harlick,
+* Kuba Zwolinski,
+* Ben Marks,
+* Sergey Lysak,
+* Liviu Taloi,
+* Marius Strajeru,
+* Iulian Padurariu,
+* Anna Völkl,
+* Sonja Riesterer,
+* Fabian Schmengler,
+* Miguel Balparda,
+* Ioana Barbu,
+* Paul Brie,
+* Vlad Tirla,
+* Iulian Ghisoiu,
+* Toma Matei,
+* Anton Kaplya,
+* Andrei Tataru,
+* Sander Mangel,
+* Sergiu Mircea,
+* Nadir Leonard Balasel,
+* Andreea Bejenaru,
+* Ana Sipciu,
+* Ciprian Pasca,
+* Laura Voica,
+* Ionut Spinu,
+* Stefan Potirniche,
+* Codin Mihale,
+* Haider Sadik,
+* Sorin Buta,
+* Andra Lungu,
+* Pavlo Okhrem,
+
+My world that is a very long list and very hard to type names!
