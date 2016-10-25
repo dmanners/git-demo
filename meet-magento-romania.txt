@@ -4,11 +4,13 @@ Meet Magento Romania will be on the 28th and 29th of October 2016.
 It will be in the lovely city of Cluj-Napoca and the event will tell you all you need to know about Magento.
 There will be something for merchants, developers and agencies and the like at the conference.
 Rumour has it that there will also be a killer party.
+The venue for the conference will be the Grand Hotel Napoca.
 
 During the conference I will be giving people an insight into the world of git.
 It will show people how I use git and why I love it. I do love it it is just misunderstood sometimes.
 In this talk I will show you some basics and some not so basics around the world of git and source control.
 With the aim of this talk to not ramble too much and inspire some people to look a bit more into this "new" git thing.
+There is plenty of things to be excited about with git and we should embrace it all!
 
 There are other speakers at this conference:
 
@@ -54,3 +56,4 @@ There are other speakers at this conference:
 * Pavlo Okhrem,
 
 My world that is a very long list and very hard to type names!
+I am sure that with this list of speakers there will be something for everyone.
