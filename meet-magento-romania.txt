@@ -1,3 +1,5 @@
+This file was written by David Manners
+
 This is a text file that I will be using for my Meet Magento Romania git talk!
 
 Meet Magento Romania will be on the 28th and 29th of October 2016.
